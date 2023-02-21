@@ -4,7 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-This app just demonstrates my first app created with react, using function components, hooks and APIs
+The app creates a monster database. You can search the database for monsters. Content was created from data from https://jsonplaceholder.typicode.com/users and images from https://robohash.org/. 
+
+This is my first react app. It demonstrates my skills using react, using function components, hooks and APIs. 
+
+<img src="https://i.ibb.co/Wv7Bzj5/pucture-monsters-rolodex.jpg"
+     alt="Monster picture" />
 
 ## Available Scripts
 
